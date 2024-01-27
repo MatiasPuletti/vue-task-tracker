@@ -4,15 +4,15 @@
       <label>Task</label>
       <input type="text" name="text" placeholder="Add Task" />
     </div>
-    <div class="form-comtrol">
+    <div class="form-control">
       <label>Day & Time</label>
-      <input type="text" name="text" placeholder="Add Day & Time" />
+      <input type="text" name="day" placeholder="Add Day & Time" />
     </div>
     <div class="form-control form-control-check">
       <label>Set Reminder</label>
       <input type="checkbox" name="reminder" />
     </div>
-    <input type="submit" value="Save task" class="bt n btn-block" />
+    <input type="submit" value="Save task" class="btn btn-block" />
   </form>
 </template>
 
